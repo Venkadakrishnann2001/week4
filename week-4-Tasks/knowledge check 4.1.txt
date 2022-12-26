@@ -1,0 +1,5 @@
+1.Yes
+2.contacts.email and contacts[‘email’]
+3.Curly braces {} 
+4.nitial: 13; after function fires: 13, because even though we added one to myNum in the function
+returnNumber, the original variable still points to the number 13
